@@ -12,7 +12,7 @@ const Banner = () => {
             <p className='cursor-pointer text-xl leading-[2.5rem]  lg:text-2xl mt-8 mb-12 lg:leading-[2.5rem]'>A Professional fullstack web developer with experience in design, developement, analysis, testing and deployment of projects. Skilled in the use of React.js and Node.js. Dedicated to building and optimizing user-focused websites and applications.</p>
             <a className='cursor-pointer text-xl lg:text-2xl rounded-full dark:text-white font-bold bg-teal-400 py-4 px-6' href={cv} download >Download CV</a>
             <span className='flex my-12 justify-center'>
-               <a href='https://linkedin.com/' target='_blank'><BsLinkedin size={35} className="cursor-pointer m-7 bg-teal-600 dark:bg-black dark:text-teal-600" /></a>
+               <a href='https://linkedin.com/in/brendan-obilo-xure' target='_blank'><BsLinkedin size={35} className="cursor-pointer m-7 bg-teal-600 dark:bg-black dark:text-teal-600" /></a>
                <a href='https://twitter.com/brendanxure' target='_blank'><AiFillTwitterCircle size={40} className="cursor-pointer m-7 text-teal-600 bg-black rounded-full dark:text-black dark:bg-teal-600"/></a>
                <a href='https://github.com/brendanxure' target='_blank'><BsGithub size={35} className="cursor-pointer m-7 text-teal-600 bg-black rounded-full dark:text-black dark:bg-teal-600" /> </a>
             </span>

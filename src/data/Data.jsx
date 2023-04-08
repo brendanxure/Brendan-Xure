@@ -72,7 +72,7 @@ export const services = [
     },
     {
         id: 3,
-        title: "Web deployment/hosting",
+        title: "Web deployment",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
@@ -85,9 +85,9 @@ export const services = [
 export const Portfolios = [
     {
         id: 1,
-        body: "Crypto Currency Dashbord",
+        body: "XureSwap",
         picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        link: "https://cypto-dashboard.onrender.com/"
+        link: "https://xureswap.onrender.com/"
     },
     {
         id: 2,
@@ -109,9 +109,9 @@ export const Portfolios = [
     },
     {
         id: 5,
-        body: "Chart Templates & Infographics in Figma",
-        picture: "https://images.pexels.com/photos/159519/back-to-school-paper-colored-paper-stationery-159519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        link: "#Header" 
+        body: "Crypto Currency Dashbord",
+        picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        link: "https://cypto-dashboard.onrender.com/" 
     },
     {
         id: 6,
