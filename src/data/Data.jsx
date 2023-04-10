@@ -26,12 +26,12 @@ export const frontend = [
     },
     {
         id: 6,
-        name: "React",
+        name: "React Js",
         stage: "Experienced"
     },
     {
         id: 7,
-        name: "Next",
+        name: "Next Js",
         stage: "Experienced"
     }
 ]
@@ -115,8 +115,8 @@ export const Portfolios = [
     },
     {
         id: 6,
-        body: "Colour Box",
-        picture: "https://images.pexels.com/photos/159519/back-to-school-paper-colored-paper-stationery-159519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        link: "https://colour-box.onrender.com/" 
+        body: "XureFlix",
+        picture: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        link: "https://xureflix.onrender.com/" 
     }
 ]

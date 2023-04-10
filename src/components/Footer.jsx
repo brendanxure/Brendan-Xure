@@ -14,9 +14,9 @@ const Footer = () => {
             <h3><a href='#Services'>Services</a></h3>
             <h3><a href='#Experience'>Experience</a></h3>
             <h3><a href='#Portfolio'>Portfolio</a></h3>
-            <h3><a href='#About'>About us</a></h3>
-            <h3><a href='#Contact'>Contact us</a></h3>
-            <h3><a href='#Testimonial'>Testimonial</a></h3>
+            <h3><a href='#About'>About </a></h3>
+            <h3><a href='#Contact'>Contact </a></h3>
+            {/* <h3><a href='#Testimonial'>Testimonial</a></h3> */}
           </div>
           <div className='flex justify-center gap-8 w-full my-6'>
             <a href='https://web.facebook.com/bukkyobilo/' target='_blank' rel="noreferrer"><GrFacebookOption size={30} /></a>

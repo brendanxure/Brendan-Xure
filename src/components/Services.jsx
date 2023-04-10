@@ -6,7 +6,7 @@ const Services = () => {
 
 
   return (
-    <div className='max-w-[1640px] p-8 mx-auto'>
+    <div className='max-w-[1640px] p-8 mx-auto' id='Services'>
         <h1 className='text-center dark:text-white text-4xl font-bold lg:text-5xl my-8'>Services I Offer</h1>
         <div className='w-[90%] md:w-[80%] lg:w-[60%] mx-auto text-xl text-center dark:text-white'>
             <p>Since the beginning of my journey as a software developer, I've done remote work for agencies and collaborated with talented software developers of different stack to create digital products for both business and consumer use.</p>

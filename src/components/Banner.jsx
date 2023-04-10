@@ -5,7 +5,7 @@ import cv from "./cv.pdf"
 
 const Banner = () => {
   return (
-    <div className='max-w-[1640px] px-8 py-6 mx-auto h-full w-full '>
+    <div className='max-w-[1640px] px-8 py-6 mx-auto h-full w-full' id='About'>
         <div className='md:w-[80%] lg:w-[60%] dark:text-white mx-auto text-center '>
             <h1 className='cursor-pointer text-4xl lg:text-6xl my-4'>Brendan Obilo</h1>
             <h1 className='cursor-pointer text-2xl lg:text-4xl my-4'>Fullstack Developer</h1>

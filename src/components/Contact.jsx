@@ -22,7 +22,7 @@ const form = useRef();
     }
 
   return (
-    <div className='max-w-[1640px] p-8 mx-auto w-[100%]' >
+    <div className='max-w-[1640px] p-8 mx-auto w-[100%]' id='Contact' >
         <h1 className='text-4xl font-bold text-center my-2 py-6 dark:text-white'>Contact Me</h1>
     <div className='xl:w-[90%] mx-auto flex flex-col lg:flex-row gap-8 w-[100%]'>
         <div className='grid md:grid-cols-2 md:grid-rows-2 lg:w-[50%]'>
