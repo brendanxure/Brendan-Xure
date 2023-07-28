@@ -1,7 +1,7 @@
 import React from 'react'
 import {BsLinkedin, BsGithub} from "react-icons/bs"
 import {AiFillTwitterCircle} from "react-icons/ai"
-import cv from "./Brendan.pdf"
+import cv from "./cv.pdf"
 
 const Banner = () => {
   return (
