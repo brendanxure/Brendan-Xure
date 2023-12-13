@@ -1,3 +1,5 @@
+import FliprechargeImage from "../components/Fliprecharge.png"
+
 export const frontend = [
     {
         id: 1,
@@ -86,7 +88,7 @@ export const Portfolios = [
     {
         id: 1,
         body: "Fliprecharge",
-        picture: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        picture: FliprechargeImage,
         link: "https://fliprecharge.biz/" 
     },
     {
