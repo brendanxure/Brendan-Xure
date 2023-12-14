@@ -4,7 +4,7 @@ import { services } from '../data/Data'
 const Services = () => {
     const [details, setDetails] = useState(services)
 
-
+    console.log(details)
   return (
     <div className='max-w-[1640px] p-8 mx-auto' id='Services'>
         <h1 className='text-center dark:text-white text-4xl font-bold lg:text-5xl my-8'>Services I Offer</h1>
