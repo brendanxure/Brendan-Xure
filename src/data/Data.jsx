@@ -13,26 +13,21 @@ export const frontend = [
     },
     {
         id: 3,
-        name: "JavaScript",
-        stage: "Experienced"
-    },
-    {
-        id: 4,
         name: "Bootstrap",
         stage: "Experienced"
     },
     {
-        id: 5,
+        id: 4,
         name: "Tailwind",
         stage: "Experienced"
     },
     {
-        id: 6,
+        id: 5,
         name: "React Js",
         stage: "Experienced"
     },
     {
-        id: 7,
+        id: 6,
         name: "Next Js",
         stage: "Experienced"
     }
@@ -58,7 +53,43 @@ export const backend = [
         id: 4,
         name: "Firebase",
         stage: "Experienced"
+    },
+    {
+        id: 5,
+        name: "SQL",
+        stage: "Intermediate"
     }
+]
+
+export const programmingLanguage = [
+    {
+        id: 1,
+        name: "Javascript",
+        stage: "Experienced"
+    },
+    {
+        id: 2,
+        name: "Python",
+        stage: "Experienced"
+    },
+    {
+        id: 3,
+        name: "Java",
+        stage: "Experienced"
+    }
+]
+
+export const softwareTesting = [
+    {
+        id: 1,
+        name: "Selenium IDE",
+        stage: "Intermediate"
+    },
+    {
+        id: 2,
+        name: "Selenium Webdriver",
+        stage: "Intermediate"
+    },
 ]
 
 export const services = [
@@ -80,6 +111,11 @@ export const services = [
     {
         id: 4,
         title: "Web programming",
+        image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
+    },
+    {
+        id: 5,
+        title: "Web automated testing",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     }
 ]
