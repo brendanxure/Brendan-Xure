@@ -9,7 +9,7 @@ const Banner = () => {
       <div className='md:w-[80%] lg:w-[60%] dark:text-white mx-auto text-center '>
         <h1 className='cursor-pointer text-4xl lg:text-6xl my-4'>Brendan Obilo</h1>
         <h1 className='cursor-pointer text-2xl lg:text-4xl my-4'>Computer Programmer</h1>
-        <p className='cursor-pointer text-xl leading-[2.5rem]  lg:text-2xl mt-8 mb-12 lg:leading-[2.5rem]'>A entry level computer programmer with experience in design, developement and deployment of projects. Skilled in the use of Javascript, Java and Python. Dedicated to building and optimizing user-focused websites and applications.</p>
+        <p className='cursor-pointer text-xl leading-[2.5rem]  lg:text-2xl mt-8 mb-12 lg:leading-[2.5rem]'>A Computer Programmer with experience in design, developement and deployment of projects. Skilled in the use of Javascript, Java and Python. Dedicated to building and optimizing user-focused websites and applications.</p>
         <a className='cursor-pointer text-xl lg:text-2xl rounded-full dark:text-white font-bold bg-teal-400 py-4 px-6' href={cv} download >Download CV</a>
         <span className='flex my-12 justify-center'>
           <a href='https://linkedin.com/in/brendan-obilo-xure' target='_blank'><BsLinkedin size={35} className="cursor-pointer m-7 bg-teal-600 dark:bg-black dark:text-teal-600" /></a>
