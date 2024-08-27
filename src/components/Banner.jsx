@@ -16,7 +16,7 @@ const Banner = () => {
           <a href='https://twitter.com/brendanxure' target='_blank'><AiFillTwitterCircle size={40} className="cursor-pointer m-7 text-teal-600 bg-black rounded-full dark:text-black dark:bg-teal-600" /></a>
           <a href='https://github.com/brendanxure' target='_blank'><BsGithub size={35} className="cursor-pointer m-7 text-teal-600 bg-black rounded-full dark:text-black dark:bg-teal-600" /> </a>
         </span>
-        <img className='w-[500px] h-[500px] my-12 mx-auto object-fill rounded-full bg-gradient-to-l from-teal-600 via-black to-teal-600 to-teal-600' src="https://raw.githubusercontent.com/developedbyed/react-portofolio-with-tailwind/main/public/dev-ed-wave.png" alt='' />
+        <img className='w-[500px] h-[500px] my-12 mx-auto object-fill rounded-full bg-gradient-to-l from-teal-600 via-black to-teal-600' src="https://raw.githubusercontent.com/developedbyed/react-portofolio-with-tailwind/main/public/dev-ed-wave.png" alt='' />
       </div>
     </div>
   )
