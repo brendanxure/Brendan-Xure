@@ -7,7 +7,7 @@ const Portfolio = () => {
   return (
     <div className='max-w-[1640px] mx-auto w-full p-8' id='Portfolio'>
         <h1 className='text-center text-4xl lg:text-5xl font-bold mt-12 mb-6 dark:text-white'>Portfolio</h1>
-        <p className='text-center text-xl dark:text-white'>Here are some of my static frontend projects, you can check my <a className="text-blue-400" href='https://github.com/brendanxure?tab=repositories' target='_blank'>Github reposotires </a>to get fullstack projects and more.
+        <p className='text-center text-xl dark:text-white'>Here are some of my projects, you can check my <a className="text-blue-400" href='https://github.com/brendanxure?tab=repositories' target='_blank'>Github reposotires </a>to get fullstack projects and more.
         </p>
         <div className='grid md:grid-cols-2 lg:grid-cols-3  w-[96%] mx-auto mt-6 lg:w-[85%]'>
             {sites.map(item => 
