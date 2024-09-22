@@ -3,12 +3,12 @@ import FliprechargeImage from "../components/Fliprecharge.png"
 export const frontend = [
     {
         id: 1,
-        name: "Html",
+        name: "Html5",
         stage: "Experienced"
     },
     {
         id: 2,
-        name: "CSS",
+        name: "CSS3",
         stage: "Experienced"
     },
     {
@@ -75,7 +75,12 @@ export const programmingLanguage = [
     {
         id: 3,
         name: "Java",
-        stage: "Experienced"
+        stage: "Intermediate"
+    },
+    {
+        id: 4,
+        name: "C#",
+        stage: "Beginner"
     }
 ]
 
