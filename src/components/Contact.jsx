@@ -34,9 +34,9 @@ const Contact = () => {
                     </article>
                     <article className='bg-teal-600 m-2 md:col-span-1 rounded-xl p-2 flex flex-col items-center leading-10 text-xl'>
                         <TbBrandMessenger size={30} />
-                        <h3>Messenger</h3>
-                        <p>Brendan Xure</p>
-                        <a className='bg-black text-white px-6 text-xl rounded-full my-3 py-1' href='https://m.me/bukkyobilo' target='_blank' rel='noreferrer'>Send a message</a>
+                        <h3>LinkedIn</h3>
+                        <p>Brendan Obilo</p>
+                        <a className='bg-black text-white px-6 text-xl rounded-full my-3 py-1' href='https://www.linkedin.com/in/brendan-obilo-xure/' target='_blank' rel='noreferrer'>Send a message</a>
                     </article>
                     <article className='bg-teal-600 m-2 md:col-span-2 rounded-xl p-2 flex flex-col items-center leading-10 text-xl'>
                         <MdOutlineEmail size={30} />
