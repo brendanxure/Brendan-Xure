@@ -1,4 +1,5 @@
 import FliprechargeImage from "../components/Fliprecharge.png"
+import DRTTrackerImage from "../components/drttracker.png"
 
 export const frontend = [
     {
@@ -128,42 +129,48 @@ export const services = [
 export const Portfolios = [
     {
         id: 1,
+        body: "DRT Tracker",
+        picture: DRTTrackerImage,
+        link: "https://drttracker.vercel.app/"
+    },
+    {
+        id:2,
         body: "Fliprecharge",
         picture: FliprechargeImage,
         link: "https://fliprecharge.biz/" 
     },
     {
-        id: 2,
+        id: 3,
         body: "XureSwap",
         picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xureswap.onrender.com/"
     },
     {
-        id: 3,
+        id: 4,
         body: "A School Website",
         picture: "https://images.pexels.com/photos/5211446/pexels-photo-5211446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://schoolweb-re12.onrender.com/"
     },
     {
-        id: 4,
+        id: 5,
         body: "Food Delivery Website",
         picture: "https://images.pexels.com/photos/15141034/pexels-photo-15141034.jpeg?auto=compress&cs=tinysrgb&w=600",
         link: "https://xurefood.onrender.com/"
     },
     {
-        id: 5,
+        id: 6,
         body: "Travelling Agency",
         picture: "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xurevacation.onrender.com/" 
     },
     {
-        id: 6,
+        id: 7,
         body: "Crypto Currency Dashbord",
         picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://cypto-dashboard.onrender.com/" 
     },
     {
-        id: 7,
+        id: 8,
         body: "XureFlix",
         picture: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xureflix.onrender.com/" 
