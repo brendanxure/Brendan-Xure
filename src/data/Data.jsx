@@ -1,5 +1,6 @@
 import FliprechargeImage from "../components/Fliprecharge.png"
 import DRTTrackerImage from "../components/drttracker.png"
+import VolunteerConnectImage from "../components/volunteerconnect.png"
 
 export const frontend = [
     {
@@ -101,27 +102,27 @@ export const softwareTesting = [
 export const services = [
     {
         id: 1,
-        title: "Designing user interface",
+        title: "Designing User Interface",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
         id: 2,
-        title: "Web development maintenance",
+        title: "Web Development Maintenance",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
         id: 3,
-        title: "Web deployment",
+        title: "Web Deployment",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
         id: 4,
-        title: "Web programming",
+        title: "Web Programming",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
         id: 5,
-        title: "Web automated testing",
+        title: "Web Automated Testing",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     }
 ]
@@ -140,37 +141,43 @@ export const Portfolios = [
         link: "https://fliprecharge.biz/" 
     },
     {
-        id: 3,
+        id:3,
+        body: "Volunteer Connect",
+        picture: VolunteerConnectImage,
+        link: "https://volunteerconnect-8z7a.onrender.com/#/"
+    },
+    {
+        id: 4,
         body: "XureSwap",
         picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xureswap.onrender.com/"
     },
     {
-        id: 4,
+        id: 5,
         body: "A School Website",
         picture: "https://images.pexels.com/photos/5211446/pexels-photo-5211446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://schoolweb-re12.onrender.com/"
     },
     {
-        id: 5,
+        id: 6,
         body: "Food Delivery Website",
         picture: "https://images.pexels.com/photos/15141034/pexels-photo-15141034.jpeg?auto=compress&cs=tinysrgb&w=600",
         link: "https://xurefood.onrender.com/"
     },
     {
-        id: 6,
+        id: 7,
         body: "Travelling Agency",
         picture: "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xurevacation.onrender.com/" 
     },
     {
-        id: 7,
+        id: 8,
         body: "Crypto Currency Dashbord",
         picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://cypto-dashboard.onrender.com/" 
     },
     {
-        id: 8,
+        id: 9,
         body: "XureFlix",
         picture: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xureflix.onrender.com/" 
