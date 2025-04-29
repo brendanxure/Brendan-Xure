@@ -89,6 +89,16 @@ export const programmingLanguage = [
         id: 5,
         name: "C#",
         stage: "Intermediate"
+    },
+    {
+        id: 6,
+        name: "PHP",
+        stage: "Intermediate"
+    },
+    {
+        id: 7,
+        name: "COBOL",
+        stage: "Intermediate"
     }
 ]
 
@@ -113,7 +123,7 @@ export const services = [
     },
     {
         id: 2,
-        title: "Web Development Maintenance",
+        title: "Web Development",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
@@ -123,12 +133,17 @@ export const services = [
     },
     {
         id: 4,
-        title: "Web Programming",
+        title: "Database Architecture",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
         id: 5,
         title: "Web Automated Testing",
+        image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
+    },
+    {
+        id: 6,
+        title: "Mainframe Development",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     }
 ]
