@@ -1,6 +1,7 @@
 import FliprechargeImage from "../components/Fliprecharge.png"
 import DRTTrackerImage from "../components/drttracker.png"
 import VolunteerConnectImage from "../components/volunteerconnect.png"
+import DCGradePortalImage from "../components/dcgradeportal.png"
 
 export const frontend = [
     {
@@ -148,9 +149,9 @@ export const Portfolios = [
     },
     {
         id: 4,
-        body: "XureSwap",
-        picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        link: "https://xureswap.onrender.com/"
+        body: "DC Grade Portal",
+        picture: DCGradePortalImage,
+        link: "https://dcgradeportal.onrender.com"
     },
     {
         id: 5,
