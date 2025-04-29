@@ -67,23 +67,28 @@ export const backend = [
 export const programmingLanguage = [
     {
         id: 1,
-        name: "Javascript",
+        name: "JavaScript",
         stage: "Experienced"
     },
     {
         id: 2,
-        name: "Python",
+        name: "TypeScript",
         stage: "Experienced"
     },
     {
         id: 3,
+        name: "Python",
+        stage: "Experienced"
+    },
+    {
+        id: 4,
         name: "Java",
         stage: "Intermediate"
     },
     {
-        id: 4,
+        id: 5,
         name: "C#",
-        stage: "Beginner"
+        stage: "Intermediate"
     }
 ]
 

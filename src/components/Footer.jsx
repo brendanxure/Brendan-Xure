@@ -18,11 +18,11 @@ const Footer = () => {
             <h3><a href='#Contact'>Contact </a></h3>
             {/* <h3><a href='#Testimonial'>Testimonial</a></h3> */}
           </div>
-          <div className='flex justify-center gap-8 w-full my-6'>
-            <a href='https://web.facebook.com/bukkyobilo/' target='_blank' rel="noreferrer"><GrFacebookOption size={30} /></a>
-            <a href='https://instagram.com/brendanxure' target='_blank' rel="noreferrer"><BsInstagram size={30} /></a>
-            <a href='https://twitter.com/brendanxure/' target='_blank' rel="noreferrer"><BsTwitter size={30} /></a>
-          </div>
+          {/*<div className='flex justify-center gap-8 w-full my-6'>*/}
+          {/*  <a href='https://web.facebook.com/bukkyobilo/' target='_blank' rel="noreferrer"><GrFacebookOption size={30} /></a>*/}
+          {/*  <a href='https://instagram.com/brendanxure' target='_blank' rel="noreferrer"><BsInstagram size={30} /></a>*/}
+          {/*  <a href='https://twitter.com/brendanxure/' target='_blank' rel="noreferrer"><BsTwitter size={30} /></a>*/}
+          {/*</div>*/}
           <footer className='text-center'>Copyright &copy;{now.getFullYear()} </footer>
       </div>
     )
