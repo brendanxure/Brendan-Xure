@@ -59,8 +59,13 @@ export const backend = [
     },
     {
         id: 5,
-        name: "SQL",
-        stage: "Intermediate"
+        name: "Microsoft SQL Server",
+        stage: "Experienced"
+    },
+    {
+        id: 6,
+        name: "PostgreSQL",
+        stage: "Experienced"
     }
 ]
 
