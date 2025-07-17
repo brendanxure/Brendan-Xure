@@ -44,26 +44,31 @@ export const backend = [
     },
     {
         id: 2,
+        name: "Spring Boot",
+        stage: "Beginner"
+    },
+    {
+        id: 3,
         name: "MongoDB",
         stage: "Experienced"
     },
     {
-        id: 3,
+        id: 4,
         name: "Express js",
         stage: "Experienced"
     },
     {
-        id: 4,
+        id: 5,
         name: "Firebase",
         stage: "Experienced"
     },
     {
-        id: 5,
+        id: 6,
         name: "Microsoft SQL Server",
         stage: "Experienced"
     },
     {
-        id: 6,
+        id: 7,
         name: "PostgreSQL",
         stage: "Experienced"
     }
@@ -161,13 +166,13 @@ export const Portfolios = [
         link: "https://drttracker.vercel.app/"
     },
     {
-        id:2,
+        id: 2,
         body: "Fliprecharge",
         picture: FliprechargeImage,
-        link: "https://fliprecharge.biz/" 
+        link: "https://fliprecharge.biz/"
     },
     {
-        id:3,
+        id: 3,
         body: "Volunteer Connect",
         picture: VolunteerConnectImage,
         link: "https://volunteerconnect-8z7a.onrender.com/#/"
@@ -194,18 +199,18 @@ export const Portfolios = [
         id: 7,
         body: "Travelling Agency",
         picture: "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        link: "https://xurevacation.onrender.com/" 
+        link: "https://xurevacation.onrender.com/"
     },
     {
         id: 8,
         body: "Crypto Currency Dashbord",
         picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        link: "https://cypto-dashboard.onrender.com/" 
+        link: "https://cypto-dashboard.onrender.com/"
     },
     {
         id: 9,
         body: "XureFlix",
         picture: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        link: "https://xureflix.onrender.com/" 
+        link: "https://xureflix.onrender.com/"
     }
 ]
