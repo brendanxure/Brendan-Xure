@@ -143,7 +143,7 @@ export const services = [
     },
     {
         id: 4,
-        title: "Database Architecture",
+        title: "Database Architecture and Design",
         image: "https://github.com/developedbyed/react-portofolio-with-tailwind/blob/main/public/design.png?raw=true"
     },
     {
