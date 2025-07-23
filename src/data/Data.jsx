@@ -191,7 +191,7 @@ export const Portfolios = [
     },
     {
         id: 6,
-        body: "Food Delivery Website",
+        body: "Food Delivery",
         picture: "https://images.pexels.com/photos/15141034/pexels-photo-15141034.jpeg?auto=compress&cs=tinysrgb&w=600",
         link: "https://xurefood.onrender.com/"
     },
