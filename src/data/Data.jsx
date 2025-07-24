@@ -185,7 +185,7 @@ export const Portfolios = [
     },
     {
         id: 5,
-        body: "A School Website",
+        body: "School Website",
         picture: "https://images.pexels.com/photos/5211446/pexels-photo-5211446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://schoolweb-re12.onrender.com/"
     },
