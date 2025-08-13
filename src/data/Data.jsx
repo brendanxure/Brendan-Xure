@@ -185,30 +185,36 @@ export const Portfolios = [
     },
     {
         id: 5,
+        body: "Xurepify",
+        picture: "",
+        link: "https://shopryte-react.vercel.app/"
+    },
+    {
+        id: 6,
         body: "School Website",
         picture: "https://images.pexels.com/photos/5211446/pexels-photo-5211446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://schoolweb-re12.onrender.com/"
     },
     {
-        id: 6,
+        id: 7,
         body: "Food Delivery",
         picture: "https://images.pexels.com/photos/15141034/pexels-photo-15141034.jpeg?auto=compress&cs=tinysrgb&w=600",
         link: "https://xurefood.onrender.com/"
     },
     {
-        id: 7,
+        id: 8,
         body: "Travelling Agency",
         picture: "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xurevacation.onrender.com/"
     },
     {
-        id: 8,
+        id: 9,
         body: "Crypto Currency Dashbord",
         picture: "https://images.pexels.com/photos/186464/pexels-photo-186464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://cypto-dashboard.onrender.com/"
     },
     {
-        id: 9,
+        id: 10,
         body: "XureFlix",
         picture: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://xureflix.onrender.com/"
