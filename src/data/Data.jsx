@@ -186,7 +186,7 @@ export const Portfolios = [
     {
         id: 5,
         body: "Xurepify",
-        picture: "",
+        picture: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         link: "https://shopryte-react.vercel.app/"
     },
     {
