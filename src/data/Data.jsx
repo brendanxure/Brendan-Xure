@@ -44,31 +44,36 @@ export const backend = [
     },
     {
         id: 2,
-        name: "Spring Boot",
-        stage: "Beginner"
-    },
-    {
-        id: 3,
-        name: "MongoDB",
-        stage: "Experienced"
-    },
-    {
-        id: 4,
         name: "Express js",
         stage: "Experienced"
     },
     {
+        id: 3,
+        name: "Spring Boot",
+        stage: "Beginner"
+    },
+    {
+        id: 4,
+        name: "ASP.NET Core MVC",
+        stage: "Beginner"
+    },
+    {
         id: 5,
-        name: "Firebase",
+        name: "MongoDB",
         stage: "Experienced"
     },
     {
         id: 6,
-        name: "Microsoft SQL Server",
+        name: "Firebase",
         stage: "Experienced"
     },
     {
         id: 7,
+        name: "Microsoft SQL Server",
+        stage: "Experienced"
+    },
+    {
+        id: 8,
         name: "PostgreSQL",
         stage: "Experienced"
     }
