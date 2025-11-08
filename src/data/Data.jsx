@@ -65,7 +65,7 @@ export const backend = [
     {
         id: 6,
         name: "Firebase",
-        stage: "Experienced"
+        stage: "Beginner"
     },
     {
         id: 7,
