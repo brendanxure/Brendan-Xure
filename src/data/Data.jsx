@@ -79,6 +79,29 @@ export const backend = [
     }
 ]
 
+export const database = [
+    {
+        id: 1,
+        name: "MongoDB",
+        stage: "Experienced"
+    },
+    {
+        id: 2,
+        name: "Microsoft SQL Server",
+        stage: "Experienced"
+    },
+    {
+        id: 3,
+        name: "PostgreSQL",
+        stage: "Experienced"
+    },
+    {
+        id: 4,
+        name: "ASP.NET Core MVC",
+        stage: "Beginner"
+    }
+]
+
 export const programmingLanguage = [
     {
         id: 1,
