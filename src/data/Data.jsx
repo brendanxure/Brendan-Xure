@@ -131,7 +131,7 @@ export const programmingLanguage = [
     {
         id: 6,
         name: "PHP",
-        stage: "Intermediate"
+        stage: "Beginner"
     },
     {
         id: 7,
